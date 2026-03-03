@@ -6,7 +6,7 @@
 <div align="left">
 
  <div align='center'>
-   <img width="1300" src="./public/logo/medora-full.png" alt="MEDORA Dark Mode" />
+   <img width="1300" src="./medora-full.png" alt="MEDORA Dark Mode" />
    <p>Secure • Organized • User-Controlled Healthcare Data</p>
    
  </div>
@@ -33,7 +33,7 @@
 # 🏠 Home Page Preview
 
 <div align="center">
-   <img src="./public/dark.png" alt="MEDORA Dark Mode" />
+   <img src="./light.png" alt="MEDORA Dark Mode" />
 </div>
 
 ---
@@ -51,7 +51,7 @@ Your efforts, time, and creativity help push this project forward—thank you! �
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="./public/collaborator/subhro.png" height='400' style="border-radius:50%" />
+      <img src="./subhro.png" height='400' style="border-radius:50%" />
       <br /><br />
       <b>Subhro</b>
       <br />
@@ -62,7 +62,7 @@ Your efforts, time, and creativity help push this project forward—thank you! �
       <a href="https://www.linkedin.com/in/subhro-kolay-05952328a/" target="_blank">LinkedIn</a>
     </td>
     <td align="center" width="50%">
-      <img src="./public/collaborator/rohan.png" height='400' style="border-radius:50%" />
+      <img src="./rohan.png" height='400' style="border-radius:50%" />
       <br /><br />
       <b>Rohan</b>
       <br />
