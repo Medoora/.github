@@ -1,6 +1,6 @@
 <div align="center">
   <!-- MEDORA Banner -->
-  <img src="https://via.placeholder.com/900x200/0A2647/FFFFFF?text=MEDORA+%7C+Your+Digital+Health+Drive" alt="MEDORA Banner" width="100%" style="max-width: 900px;" />
+  <img src="./banner.jpg" width="100%" style="max-width: 900px;" />
 
   # 🩺 MEDORA  
   ### Your Digital Health Drive 💾🛡️  
