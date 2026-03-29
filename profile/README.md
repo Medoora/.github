@@ -33,7 +33,7 @@
 # 🏠 Home Page Preview
 
 <div align="center">
-   <img src="./light.png" alt="MEDORA Dark Mode" />
+   <img src="./home.png" alt="MEDORA Dark Mode" />
 </div>
 
 ---
